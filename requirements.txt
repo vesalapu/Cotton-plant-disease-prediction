@@ -1,4 +1,4 @@
-absl-py==0.9.0
+absl-py
 astunparse==1.6.3
 attrs==19.3.0
 backcall==0.1.0
@@ -20,7 +20,7 @@ google-auth==1.15.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 gunicorn
-grpcio==1.29.0
+grpcio
 h5py==2.10.0
 idna==2.9
 importlib-metadata==1.6.0
@@ -48,10 +48,10 @@ mistune==0.8.4
 nbconvert==5.6.1
 nbformat==5.0.6
 notebook==6.0.3
-numpy==1.18.4
+numpy==1.19.2
 oauthlib==3.1.0
 opencv-python==4.2.0.34
-opt-einsum==3.2.1
+opt-einsum==3.3.0
 packaging==20.4
 pandas==1.0.3
 pandas-datareader==0.8.1
@@ -62,7 +62,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
-protobuf==3.8.0
+protobuf==3.9.2
 ptyprocess==0.6.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
@@ -86,9 +86,9 @@ Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
 tensorflow
-tensorboard==2.2.1
+tensorboard==2.4
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow-estimator==2.2.0
+tensorflow-estimator
 termcolor==1.1.0
 terminado==0.8.3
 testpath==0.4.4
