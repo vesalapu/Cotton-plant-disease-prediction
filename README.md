@@ -7,3 +7,8 @@
  In this dataset,provided with images that belong to 4 classes : diseased leaf , diseased plant , fresh leaf and fresh plant. The objective of this study is to create a CNN model to help us predict whether these image of the leaf/plant belong to the diseased category or the healthy category. Working with images is pretty memory consuming, especially if you read and preprocess all of them at the same time.
 
 Dataset link: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
+
+## Model building:
+
+## Deployment:
+ Model is deployed using streamlit framework.
