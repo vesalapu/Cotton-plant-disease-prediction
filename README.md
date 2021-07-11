@@ -9,6 +9,6 @@
 Dataset link: https://www.kaggle.com/janmejaybhoi/cotton-disease-dataset
 
 ## Model building:
-
+ Pre-trained models like VGG16 and ResNet152V2  are traied for model building, but Resnet152V2 is giving the better accuracy of 93.75%
 ## Deployment:
  Model is deployed using streamlit framework.
